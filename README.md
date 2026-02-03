@@ -1,6 +1,8 @@
 
 # Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
-Date:03-02-2026
+# Name: Manikandan M
+# Reg No: 212224040184
+# Date:03-02-2026
 
 # AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
